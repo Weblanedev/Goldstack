@@ -89,8 +89,7 @@ export default function Home() {
 
 			<section
 				className='
-				py-[60px]
-				xl:pt-[100px]
+				pt-[100px]
 				lg:px-[49px]
 				'
 			>
