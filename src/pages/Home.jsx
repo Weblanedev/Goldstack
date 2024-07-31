@@ -173,7 +173,7 @@ export default function Home() {
 						<div
 							className='
 							flex
-							order-first lg:order-last
+							order-last
 							lg:py-5
 							w-full h-full
 							'
