@@ -4,7 +4,7 @@ import DescriptionComp from '../components/DescriptionComp';
 // import { Inter } from 'next/font/google';
 // const inter = Inter({ subsets: ['latin'] });
 import { Link } from 'react-router-dom';
-import corporateImg from '../assets/corporate-treasury.svg';
+import corporateImg from '../assets/multipayment.svg';
 import heroImg from '../assets/hero-img.svg';
 import layersImg from '../assets/layers.svg';
 import cash from '../assets/icons/cash.svg';
@@ -17,7 +17,7 @@ import treasury from '../assets/icons/treasury.svg';
 import wallets from '../assets/icons/wallet.svg';
 
 import currencyImg from '../assets/currencyImg.svg';
-import psImg from '../assets/Payments-settled.svg';
+import psImg from '../assets/remittance.svg';
 import rateImg from '../assets/rate.svg';
 import settlementImg from '../assets/settlement.svg';
 import vipImg from '../assets/vip.svg';
