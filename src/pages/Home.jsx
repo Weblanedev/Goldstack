@@ -61,8 +61,8 @@ export default function Home() {
 								</p>
 
 								<div className="flex justify-center space-y-2 lg:space-y-0 lg:space-x-2">
-									<Link to='/contact'>
-										<Button type='primary' btnText='Talk to us' icon={true} />
+									<Link to='/products/payment-links'>
+										<Button type='primary' btnText='Get Started' icon={true} />
 									</Link>
 								</div>
 							</div>
@@ -90,6 +90,7 @@ export default function Home() {
 			<section
 				className='
 				py-[60px]
+				xl:pt-[100px]
 				lg:px-[49px]
 				'
 			>
@@ -385,11 +386,10 @@ export default function Home() {
 						//  py-[78px]
 						>
 							<h4 className='font-[400] leading-[32px] text-[14px] uppercase text-[#4C00EE]'>
-								Payments & settlements
+								Remittance
 							</h4>
 							<h2 className='mt-[8px] mb-[24px] font-[600] text-[24px] leading-[36px] text-[#101828]'>
-								Automate payments and settlement across African and G20
-								currencies
+							Our remittance services guarantee quick, reliable, and secure money transfers, so you can send funds effortlessly.
 							</h2>
 
 							<div>

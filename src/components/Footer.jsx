@@ -78,7 +78,9 @@ const Footer = () => {
 								? 'Build seamlessly, launch quickly'
 								: 'Grow your business across the world with our fast,cost-effective and easy-to-use services.'}
 						</h3>
+						<Link to='/contact'>
 						<Button btnText='Talk to us' icon={true} bgColor={false} />
+						</Link>
 					</div>
 					<div
 						className='grid md:grid-cols-2 lg:grid-cols-3 text-white
@@ -173,7 +175,7 @@ const Footer = () => {
 						</div>
 					</div>
 
-					<div className='flex flex-col sm:flex-row justify-between py-[24px]  text-white text-[14px] leading-[22px] font-[400] border-t-[1px] border-t-white'>
+					<div className='flex flex-col sm:flex-row justify-center py-[24px]  text-white text-[14px] leading-[22px] font-[400] border-t-[1px] border-t-white'>
 						<div>
 							<p>
 								© {new Date().getFullYear()} Goldstack Inc. All rights

@@ -153,9 +153,6 @@ const Navbar = () => {
 													{navigationItem.name}
 												</NavLink>
 											))}
-											<NavLink to='products/payment-links' onClick={() => close()}>
-												<p>Login in</p>
-											</NavLink>
 											<NavLink to='contact' onClick={() => close()}>
 												<p>Sign up</p>
 											</NavLink>
