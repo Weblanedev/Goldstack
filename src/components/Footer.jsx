@@ -104,7 +104,7 @@ const Footer = () => {
 							<p
 								className='mt-[10px] font-[400] text-[14px] leading-[24px] lg:w-[300px]'
 							>
-								GOLDSTACK TECHNOLOGIES LIMITED is now listed on <strong>FINTRAC</strong>'s public <strong>MSB</strong> Registry.
+								GOLDSTACK TECHNOLOGIES LIMITED is now licensced by <strong>FINTRAC(MSB Canda)</strong> and<strong> CBN(IMTO)</strong>.
 							</p>
 						</div>
 						<div className='flex items-center lg:justify-center mt-4 lg:mt-0'>
