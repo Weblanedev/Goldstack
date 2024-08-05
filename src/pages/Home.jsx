@@ -187,10 +187,11 @@ export default function Home() {
 						// ml-auto
 						>
 							<img
-								src={corporateImg}
+								src={"https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}
 								className='
 								w-full
 								h-full
+								rounded-md
 								'
 							/>
 							{/* lg:w-full
@@ -268,8 +269,7 @@ export default function Home() {
 							</h3>
 
 							<p className='font-[400] leading-[24px] text-[#475467]'>
-								50+ currency pairs including intra-African and digital
-								currencies.
+								50+ currency pairs
 							</p>
 						</div>
 					</div>

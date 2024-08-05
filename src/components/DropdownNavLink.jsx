@@ -230,13 +230,12 @@ const DropdownNavLinkMobile = ({ close }) => {
 			</NavLink>
 			{isOpen && (
 				<div
-					className='absolute z-50 mt-6
+					className='absolute left-[50%] -translate-x-[50%] z-50 mt-6
 								rounded-md shadow-lg
 								p-3
 								bg-white
 								w-[360px]
-								text-left
-								-translate-x-[100px]'
+								text-left'
 					// px-[20px]
 					// bg-red-600
 					onMouseLeave={() => setIsOpen(false)}

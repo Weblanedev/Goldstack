@@ -91,7 +91,7 @@ const Hero = ({ title, subTitle, subTitle2, buttonTxt, heroImg, minTitle }) => {
 						lg:flex
 						`}
 					>
-						<img src={heroImg} alt='hero-img' className='md:w-full' />
+						<img src={heroImg} alt='hero-img' className='w-full' />
 					</div>
 				</div>
 				{/* {logo && (
