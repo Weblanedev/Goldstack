@@ -98,13 +98,13 @@ const Footer = () => {
 							</Link>
 
 							<p className='font-[400] text-[14px] leading-[24px]  pt-[16.82px] lg:w-[300px]'>
-								GOLDSTACK TECHNOLOGIES LIMITED offers a full range of Treasury, FX, and Payments services for pan-African and international enterprises.
+								GOLDSTACK TECHNOLOGIES LIMITED offers a full range of Treasury, FX, and Payment services.
 
 							</p>
 							<p
 								className='mt-[10px] font-[400] text-[14px] leading-[24px] lg:w-[300px]'
 							>
-								GOLDSTACK TECHNOLOGIES LIMITED is now licensed by <strong>FINTRAC(MSB Canada)</strong> and<strong> CBN(IMTO)</strong>.
+								GOLDSTACK TECHNOLOGIES LIMITED is now licensed by <strong>FINTRAC(MSB Canada)</strong>.
 							</p>
 						</div>
 						<div className='flex items-center lg:justify-center mt-4 lg:mt-0'>

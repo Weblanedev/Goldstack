@@ -90,10 +90,6 @@ const ContactUs = () => {
 										6th floor,
 										<br />
 										Toronto ON M5H 1K5
-										{/* The Afronaut,
-										<br /> 180 Babalola gardens,
-										<br /> off Freedom way, Lekki
-										<br /> Lagos state, Nigeria */}
 									</p>
 								</div>
 							</div>

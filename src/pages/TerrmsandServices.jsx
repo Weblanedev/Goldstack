@@ -8,7 +8,7 @@ const TerrmsandServices = () => {
 
                 <h2 class="text-2xl font-semibold mt-4 mb-4">About Us</h2>
                 <p class="mb-4 text-gray-700">
-                Goldstack offers a full range of Treasury, FX, and Payments services for pan-African and international enterprises. GOLDSTACK TECHNOLOGIES LIMITED is now listed on <strong>FINTRAC</strong>'s public <strong>MSB</strong> Registry.
+                Goldstack offers a full range of Treasury, FX, and Payment services. GOLDSTACK TECHNOLOGIES LIMITED is now listed on <strong>FINTRAC</strong>'s public <strong>MSB</strong> Registry.
                 Please note that your mandatory registration does not constitute a business endoresement by <strong>FINTRAC</strong>.
                 </p>
                 <h2 class="text-2xl font-semibold mt-4 mb-4">Restricted Use</h2>
