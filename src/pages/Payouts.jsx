@@ -151,7 +151,7 @@ const Payouts = () => {
 								{ name: 'Banks', img: bank },
 								{ name: 'Mobile Money', img: mobile },
 								{ name: 'Crypto', img: crypto },
-								{ name: 'Third Party', img: third }
+								// { name: 'Third Party', img: third }
 							]}
 							currency='Our platform supports a wide range of  currencies to enable you stay ahead of the curve'
 							currencyData={[
